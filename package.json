@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazelnut6/basic-node-site.git"
+  },
+  "author": "hazelnut6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazelnut6/basic-node-site/issues"
+  },
+  "homepage": "https://github.com/hazelnut6/basic-node-site#readme",
+  "description": ""
+}
